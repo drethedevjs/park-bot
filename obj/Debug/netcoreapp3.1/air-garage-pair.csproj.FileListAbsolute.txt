@@ -1,0 +1,11 @@
+/Users/andrethomas/Sites/air-garage-pair/bin/Debug/netcoreapp3.1/air-garage-pair
+/Users/andrethomas/Sites/air-garage-pair/bin/Debug/netcoreapp3.1/air-garage-pair.deps.json
+/Users/andrethomas/Sites/air-garage-pair/bin/Debug/netcoreapp3.1/air-garage-pair.runtimeconfig.json
+/Users/andrethomas/Sites/air-garage-pair/bin/Debug/netcoreapp3.1/air-garage-pair.runtimeconfig.dev.json
+/Users/andrethomas/Sites/air-garage-pair/bin/Debug/netcoreapp3.1/air-garage-pair.dll
+/Users/andrethomas/Sites/air-garage-pair/bin/Debug/netcoreapp3.1/air-garage-pair.pdb
+/Users/andrethomas/Sites/air-garage-pair/obj/Debug/netcoreapp3.1/air-garage-pair.csprojAssemblyReference.cache
+/Users/andrethomas/Sites/air-garage-pair/obj/Debug/netcoreapp3.1/air-garage-pair.AssemblyInfoInputs.cache
+/Users/andrethomas/Sites/air-garage-pair/obj/Debug/netcoreapp3.1/air-garage-pair.AssemblyInfo.cs
+/Users/andrethomas/Sites/air-garage-pair/obj/Debug/netcoreapp3.1/air-garage-pair.dll
+/Users/andrethomas/Sites/air-garage-pair/obj/Debug/netcoreapp3.1/air-garage-pair.pdb

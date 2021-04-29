@@ -3,8 +3,6 @@
 
 If you would like a walk-through of the code then you can [look here](https://drive.google.com/file/d/1qyi8JONjEpNXN3sQVHatkm7q-tMrEVzi/view?usp=sharing). After I recorded the video, I did some refactoring but I added some comments to help you through the code.
 
-Also, I haven't learned how to create a runnable script with a custom format for execution. This solution is the closet way I know how.
-
 ## Instructions to Run
 
 1. Go to [this site](https://example.com) and download the .NET SDK. I used .NET Core 3.1 but you should be able to use .NET Core 5. [This video](https://www.youtube.com/watch?v=CDuUQNU7hWM) is a good resource to learn how if you prefer a walk-through video. To check if it worked, go inside your terminal and type `dotnet --version`. You should see the version installed if it worked.

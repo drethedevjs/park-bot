@@ -1,11 +1,7 @@
 # Air Garage ParkBot Challenge
-## Note to Air Garage
-
-If you would like a walk-through of the code then you can [look here](https://drive.google.com/file/d/1qyi8JONjEpNXN3sQVHatkm7q-tMrEVzi/view?usp=sharing). After I recorded the video, I did some refactoring but I added some comments to help you through the code.
-
 ## Instructions to Run
 
-1. Go to [this site](https://example.com) and download the .NET SDK. I used .NET Core 3.1 but you should be able to use .NET Core 5. [This video](https://www.youtube.com/watch?v=CDuUQNU7hWM) is a good resource to learn how if you prefer a walk-through video. To check if it worked, go inside your terminal and type `dotnet --version`. You should see the version installed if it worked.
+1. Go to [this site](https://dotnet.microsoft.com/en-us/download) and download the .NET SDK. I used .NET Core 3.1 but you should be able to use anything after that. [This video](https://www.youtube.com/watch?v=CDuUQNU7hWM) is a good resource to learn how if you prefer a walk-through video. To check if it worked, go inside your terminal and type `dotnet --version`. You should see the version installed if it worked.
 2. Now to download my app. [Go here](https://github.com/athomas-wtv/park-bot) and clone my project.
 3. Go inside the folder using your file explorer or Finder and delete the `obj` folder and the `bin` folder.
 4. Navigate into the file and type `dotnet build` then `dotnet run`. The app should be running an is ready for input.

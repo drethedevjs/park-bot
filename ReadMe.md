@@ -1,4 +1,7 @@
 # Air Garage ParkBot Challenge
+# Introduction
+A company that I was interviewing with asked me to create this as a coding challenge. The challenge can be viewed below.
+
 ## Instructions to Run
 
 1. Go to [this site](https://dotnet.microsoft.com/en-us/download) and download the .NET SDK. I used .NET Core 3.1 but you should be able to use anything after that. [This video](https://www.youtube.com/watch?v=CDuUQNU7hWM) is a good resource to learn how if you prefer a walk-through video. To check if it worked, go inside your terminal and type `dotnet --version`. You should see the version installed if it worked.
